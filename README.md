@@ -16,4 +16,4 @@ I like learning things on the exact fields like chemistry and physics. This is p
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS)
